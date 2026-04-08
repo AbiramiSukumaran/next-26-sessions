@@ -36,7 +36,7 @@ VALUES
     ('ab799389-90af-410c-9758-4c9c3726eb75', 'Adjustable Dumbbell Set (50lb)', 'FIT-DB-AD-28', 249.00, 12),
     ('55720576-04a6-4da7-9018-663fddfd7758', 'Waterproof Dry Bag 20L', 'OUT-BAG-WP-29', 45.00, 65),
     ('0a9c1303-adba-4b38-a56f-2a5952a7daf6', 'Smart Home Hub Gateway 2.0', 'EL-SH-HG-30', 99.00, 105),
-    ('0a9c1303-adba-4b38-a56f-2a5952a7daf6', 'Stainless Steel Travel Mug 16oz', 'HG-MUG-SS-31', 18.00, 230),
+    ('204aa6e3-5ba7-4544-a01b-f093032cf10d', 'Stainless Steel Travel Mug 16oz', 'HG-MUG-SS-31', 18.00, 230),
     ('7d15978b-2137-4f82-8120-8c6bd9d964aa', 'Bamboo Cutting Board Extra Large', 'HG-CB-BL-32', 32.50, 80),
     ('29b56b7d-a725-437e-a4ec-84485a7d4930', 'Microfiber Cleaning Cloth Set (5 pack)', 'HG-CL-MF-33', 9.99, 500),
     ('40faf3e9-1868-4556-958d-2167680e2eb1', 'Kids Building Blocks Set (200pc)', 'TOY-BL-KB-34', 45.00, 175),
